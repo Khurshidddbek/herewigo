@@ -2,7 +2,12 @@
 
 Firebase Task
 
-## Getting Started
+## Firebase Database
+### Database ga ma'lumotlarni qo'shish va ularni bosh sahifada ko'rish imkoniyati qo'shildi :
+![task_firbase_3 _detailpage](https://user-images.githubusercontent.com/78873641/122368328-acf8a900-cf76-11eb-810c-54129e493537.jpg)
+![task_firbase_3 _hompage](https://user-images.githubusercontent.com/78873641/122368331-ae29d600-cf76-11eb-82d4-c7ee03cd811e.jpg)
+
+
 # Demo UI Authentication
 
 ![image](https://user-images.githubusercontent.com/78873641/121484717-ec5c4e00-c9e8-11eb-9832-8a8ae818147b.png)
