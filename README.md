@@ -3,14 +3,12 @@
 Firebase Task
 
 ## Getting Started
+# Demo UI Authentication
+
+![image](https://user-images.githubusercontent.com/78873641/121484717-ec5c4e00-c9e8-11eb-9832-8a8ae818147b.png)
+![task_firbase_2 _hompage](https://user-images.githubusercontent.com/78873641/121484241-7657e700-c9e8-11eb-94b5-860b7141d8f8.jpg)
+![task_firbase_2 _signin](https://user-images.githubusercontent.com/78873641/121484249-77891400-c9e8-11eb-844c-46dbb08f807c.jpg)
+![task_firbase_2 _signup](https://user-images.githubusercontent.com/78873641/121484252-7821aa80-c9e8-11eb-9490-26ce25a12ac6.jpg)
+
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
