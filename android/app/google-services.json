@@ -2,6 +2,7 @@
   "project_info": {
     "project_number": "972760384964",
     "project_id": "herewego-58386",
+    "firebase_url" : "https://herewego-58386-default-rtdb.firebaseio.com",
     "storage_bucket": "herewego-58386.appspot.com"
   },
   "client": [
